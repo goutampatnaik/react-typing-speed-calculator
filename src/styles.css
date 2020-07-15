@@ -1,0 +1,25 @@
+.App {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+textarea {
+    width: 100%;
+    min-height: 30vh;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+button {
+    padding: 5px 20px;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+label {
+    font-size: 1.2rem;
+    margin-right: 20px;
+}
